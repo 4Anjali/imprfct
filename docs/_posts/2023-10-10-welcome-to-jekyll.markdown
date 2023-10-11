@@ -1,29 +1,26 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2023-10-10 16:41:08 -0400
-categories: jekyll update
+title:  "Why Do This?"
+date:   2020-06-10 04:21:08 -0400
+categories: Personal Note
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+All I can think of is food. What am I going to get next? Is it going to be the same bland porridge and some pickle?  I'm sick of this porridge business. And then other times I feel guilt that with so many people dying around us, all I can think of is food. I think when you don't have something, it overpowers your mind. And, something as basic as food..yes, it does affect you. But I should not be complaining.
 
-Jekyll requires blog post files to be named according to the following format:
+As I sit at home with the pandemic all around me, with all its deafening silence, all I can think of is food. Yes, I prided myself on the fact, that food did not matter to me, that I was not a slave to my tongue - that I could resist much of the junk food universe, and that I could survive on very little if I had to. But now, all that pride has been shattered - yes, I think about food all the time now. 
 
-`YEAR-MONTH-DAY-title.MARKUP`
+I think we have done well as a family to have survived the pandemic till now, and I am thankful for that. However, not having a ktichen has hit us really hard.
+The Covid struck, and suddenly everything stopped - a deafening silence on the streets - not even the dogs that used to happily skip by with their owners. 
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+This has been really bad timing - the pandemic struck right after the contractor had tore down the kitchen to its bare bones. He suddenly stopped coming and we have been left with a bare bones kitchen with no appliances - only bare torn down walls. 
+So, our kitchen since December of 2019 has been a heating coil set on top of our dryer. The wash basin between the dryer and the washer serves as the place where we wash anything that does not leave any debrie. It takes forever to cook on that very weak coil. Especially, my mom can't get the oil to boil enough to cook anything fried. So, we have been eating very bland food for what seems to be forever.
 
-Jekyll also offers powerful support for code snippets:
+Suddenly all my dad's comments about respecting food have taken on such immediacy - sometimes I feel like pinching myself to confirm that I am not dreaming.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+As if this was not enough, he has now asked me to research about inequity in access to food , about food waste. And this means that I am thinking even more about food all the time. But, it has paradoxically taken away the sting since I see how lucky we are to at least have food on the table for every meal.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+It's been a revelation to know that 30% of the food produced globally gets wasted! And that is when I decided to do something about food and needless hunger. I believe saving food waste is worth putting my time into and I intend to do something about it.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+This project is about saving imperfect foods.  I hope you will join us!
+
+Anjali.
+
