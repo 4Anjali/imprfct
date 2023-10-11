@@ -21,7 +21,8 @@
 title: Imperfect Foods
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  > This we believe - "One of the most fundamental responsibilities of a society is to ensure that everyone has enough to eat."
+  This we believe-
+  >  One of the most fundamental responsibilities of a society is to ensure that everyone has enough to eat.
 
   
   We feel you are here becuase you too believe in the above statement. 
