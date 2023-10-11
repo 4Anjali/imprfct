@@ -18,12 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: Imperfect Foods
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  One of the most fundamental duties of a society is to ensure that everyone has enough to eat.
+  We at Imperfect Foods Project believe in that and believe that you are here becuase you wish to join us in our mission.
+  There is a lot to be done and the tasks are listed here ****.
+  You can go ahead and place your name against it (your github handle) and start finishing off the tasks that excite you.
+  Thank you for doing this!  
 baseurl: "/imprfct"  # the subpath of your site, e.g. /blog
 url: "https://captmtt.github.io"
 twitter_username: jekyllrb
