@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Hello Bhai Saab Ji!
+Will you join us in helping save food so all can eat? Every little bit counts and we are glad you are here!
