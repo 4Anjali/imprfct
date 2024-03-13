@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use assets from this repository, please cite it as below."
+authors:
+  - family-names: Sharma
+    given-names: Anjali
+    orcid: https://orcid.org/0009-0005-5513-2486
+title: "Save Imperfect Foods Project"
+version: 2.0.1
+identifiers:
+  - type: doi
+    value: 10.17605/OSF.IO/AR32N
+date-released: 2023-10-07
