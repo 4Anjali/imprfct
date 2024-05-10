@@ -1,2 +1,11 @@
-Test  
-2023-12-12-post2.markdown
+---
+layout: post
+title:  "Robofest 2024"
+date:   2024-05-10 05:21:08 -0400
+categories: Personal
+---
+Here is our Team Shots.
+
+![Team Tweety Helping Out With the Robotic Workcell Setup](/images/Team-Tweety-1.jpg)
+
+![Team Tweety Helping Give Wings to Ideas!](/images/Team-Tweety-Flight.jpg)
