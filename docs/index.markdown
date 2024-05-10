@@ -12,7 +12,7 @@ Will you join us in helping save food so all can eat? Every little bit counts an
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         {% if post.image %}
-        <img src="{{ post.image }}" alt="{{ post.title }}" style="width:100%; max-width:300px; height:auto;">
+        <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" style="width:100%; max-width:300px; height:auto;">
         {% endif %}
         <h2>{{ post.title }}</h2>
         {% if post.blurb %}
