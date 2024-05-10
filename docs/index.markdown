@@ -5,3 +5,20 @@
 layout: home
 ---
 Will you join us in helping save food so all can eat? Every little bit counts and we are glad you are here!
+
+
+
+{% for post in site.posts %}
+<div class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        {% if post.image %}
+        <img src="{{ post.image }}" alt="{{ post.title }}" style="width:100%; max-width:300px; height:auto;">
+        {% endif %}
+        <h2>{{ post.title }}</h2>
+        {% if post.blurb %}
+        <p>{{ post.blurb }}</p>
+        {% endif %}
+    </a>
+    <p class="post-meta">Posted on {{ post.date | date: "%b %-d, %Y" }}</p>
+</div>
+{% endfor %}
