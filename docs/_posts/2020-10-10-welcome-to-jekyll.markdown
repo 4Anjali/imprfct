@@ -26,5 +26,4 @@ This project is about saving imperfect foods.  I hope you will join us!
 
 Anjali.
 
-images/Pandemic-Kitchen1-IMG_20200224.jpeg
 
