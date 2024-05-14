@@ -30,7 +30,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   You can go ahead and place your name against it (your github handle) and start finishing off the tasks that excite you.
   Thank you for doing this!  
 baseurl: "/imprfct"  # the subpath of your site, e.g. /blog
-url: "https://captmtt.github.io"
+url: "https://4anjali.github.io"
 twitter_username: jekyllrb
 github_username:  jekyll
 
