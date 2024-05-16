@@ -6,6 +6,6 @@ categories: Personal
 ---
 Here is our Team Shots.
 
-![Team Tweety Helping Out With the Robotic Workcell Setup](/images/Team-Tweety-1.jpg)
+![Team Tweety Helping Out With the Robotic Workcell Setup](/assets/images/Team-Tweety-1.jpg)
 
-![Team Tweety Helping Give Wings to Ideas!](/images/Team-Tweety-Flight.jpg)
+![Team Tweety Helping Give Wings to Ideas!](assets/images/Team-Tweety-Flight.jpg)
