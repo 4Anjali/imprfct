@@ -25,7 +25,7 @@ As if this was not enough, he has now asked me to research about inequity in acc
 
 It's been a revelation to know that 30% of the food produced globally gets wasted! And that is when I decided to do something about food and needless hunger. I believe saving food waste is worth putting my time into and I intend to do something about it.
 
-This project is about saving imperfect foods.  I hope you will join us!
+This project is about saving imperfect foods.  I hope you will join us! 
 
 Anjali.
 
