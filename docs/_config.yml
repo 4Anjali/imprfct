@@ -29,7 +29,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   If you wish to join us in helping save food so all can have enough to eat, please click here for a list of open tasks.
   You can go ahead and place your name against it (your github handle) and start finishing off the tasks that excite you.
   Thank you for doing this!  
-baseurl: "/imprfct"  # the subpath of your site, e.g. /blog
+baseurl: "/imprfct/docs"  # the subpath of your site, e.g. /blog
 url: "https://4Anjali.github.io"
 twitter_username: jekyllrb
 github_username:  jekyll
