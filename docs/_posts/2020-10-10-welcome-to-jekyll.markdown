@@ -3,7 +3,7 @@ layout: post
 title:  "Why Do This?"
 date:   2020-06-10 04:21:08 -0400
 categories: Personal
-image: /imprfct/docs/assets/images/Pandemic-Kitchen1-IMG_20200224.jpeg
+image: imprfct/docs/assets/images/Pandemic-Kitchen1-IMG_20200224.jpeg
 blurb: "All I can think of is food. The pandemic reset my relationship with food..."
 ---
 
