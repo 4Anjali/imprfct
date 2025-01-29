@@ -1,0 +1,14 @@
+---
+layout: post
+title:  “Making the Vacumm Gripper Operational”
+date:   2024-05-14 14:23:57 -0400
+categories: Personal
+image: /assets/images/AirCompressor-IMG_7847.JPG
+blurb: “Let's make the robot vaccum gripper work..”
+---
+![VacumGripperCompressor]({{ "/assets/images/AirCompressor-IMG_7847.JPG" | relative_url }})  
+
+Bought this quiet compressor (60dB) from Menards for attaching to the vacuum gripper. Some coupling adaptors are needed since the pipe that came with the vacuum gripper has a 6 mm diameter and the tube that came with a compressor is ¼ inch. Could not find a coupler in stock in any of the stores. Even tried AutoZone since I was told automotive shops are big on air compressors.
+Anyways, had to fall back on trusty Amazon.com and it was a breeze. I now need to put everything together and try it out. There is a concern around the solenoid or the 6 mm pipe blowing up on me due to air pressure. I am going to be extra careful before letting in any high pressure air through the vacuum gripper. I can’t afford any unnecessary and costly accidents. Might go for a smaller, lower pressure compressor. Fingers crossed.  
+
+![VacumGripperCompressor2]({{ "/assets/images/AirCompressor-IMG_7845.JPG" | relative_url }})

@@ -1,3 +1,1 @@
-# imprfct
-TBD
-Great Start to Site  
+# This Site Chronociles The Work By LIME Lab Low Profit LLC @ Detroit
