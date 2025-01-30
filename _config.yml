@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: LIME Lab in Detroit
+title: Imperfect Foods Dataverse
 email: anjali.sharma@limelab.org
 description: >- # this means to ignore newlines until "baseurl:"
-  LIME Lab Project Site.
-baseurl: "/limelab" # remove the subpath to stop the redirection
+  Imperfect Foods Project Site.
+baseurl: "/imprfct" # remove the subpath to stop the redirection
 url: "https://4Anjali.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
