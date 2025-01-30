@@ -21,6 +21,60 @@ permalink: /
 | **Total Downloads (Dec. 8, 2024)** | 53,000+                                                                |
 
 
+## Imperfect Produce Data Downloads Details
+
+
+The Imperfect Foods Dataset contains images of produce items categorized as Good, Bad, or Imperfect. 
+The complete dataset is available on Harvard Dataverse: [Imperfect Foods Dataverse](https://dataverse.harvard.edu/dataverse/imperfectfoods)
+
+Below is a breakdown of how many times each of the images has been downloaded from the Harvard Dataverse site:
+
+| Fruit | Good | Bad | Imperfect |
+|-------|------|-----|-----------|
+| Apple | 144 | 628 | 2,565 |
+| Avacado | 56 | 98 | 35 |
+| Banana | 50 | 19 | 48 |
+| Beets | 10 | 5 | 5 |
+| Bellpeppers | 27 | 12 | 14 |
+| Cantaloupe | 14 | 12 | 6 |
+| Capsicum | 280 | 2,113 | 28,805 |
+| Carrots | 2,129 | 101 | 1,866 |
+| Cauliflower | 10 | 15 | 28 |
+| Cherry | 56 | 6 | 29 |
+| Cucumber | 5 | 5 | 10 |
+| Eggplant | 6 | 12 | 25 |
+| Ginger | 20 | 4 | - |
+| Grapefruit | 6 | 17 | 5 |
+| Guavas | 10 | 11 | 5 |
+| Kiwi | 10 | 9 | 7 |
+| Kiwi | 43 | 35 | 10 |
+| Lemon | 10 | 10 | 8 |
+| Mango | 10 | 10 | 23 |
+| Okra | 12 | 8 | 203 |
+| Onion | 42 | 10 | 6 |
+| Orange | 28 | 16 | 16 |
+| Papaya | 34 | 6 | 8 |
+| Peach | 14 | 24 | 45 |
+| Pear | 10 | 10 | 13 |
+| Plum | 12 | 5 | 6 |
+| Pomegranates | 5 | 20 | 4 |
+| Potato | 21 | 6 | 14 |
+| Pumpkin | 10 | 5 | 21 |
+| Strawberry | 35 | 41 | 4,010 |
+| Tomato | 20 | 34 | 44 |
+| Zucchini | 14 | 6 | 10 |
+| **Total** | **6,977** | **11,910** | **37,894** |
+
+## Dataset Overview
+- Total number of images: 56,781
+- Number of produce types: 32
+- Categories: Good, Bad, and Imperfect
+- Largest category: Imperfect (37,874 images)
+- Most represented produce: Capsicum (31,198 total images)
+
+## Access
+The complete dataset is available on Harvard Dataverse: [Imperfect Foods Dataverse](https://dataverse.harvard.edu/dataverse/imperfectfoods)
+
 
 ### Completed:
 - Taught over 1,000 students in person over the past appx. 10 years.
