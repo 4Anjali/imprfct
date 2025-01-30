@@ -1,1 +1,1 @@
-# This Site Chronociles The Work By LIME Lab Low Profit LLC @ Detroit
+# This Site Chronociles The Work on BUilding the Imperfect Foods Dataverse
