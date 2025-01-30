@@ -36,10 +36,10 @@ plugins:
 
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll/tagging
+#theme: minima
+#plugins:
+#  - jekyll-feed
+#  - jekyll/tagging
 
 # Exclude from processing.
 # The following items will not be processed, by default.
