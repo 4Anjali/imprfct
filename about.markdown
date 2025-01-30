@@ -4,23 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# Dataset Details for Imperfect Foods Dataverse
-
-| **Dataset Name**               | Imperfect Foods Dataverse                                                |
-|--------------------------------|---------------------------------------------------------------------------|
-| **What**                       | Images of good, bad, and imperfect fruits and vegetables                 |
-| **Where**                      | On The Harvard Dataverse @ [https://dataverse.harvard.edu/dataverse/imperfectfoods](https://dataverse.harvard.edu/dataverse/imperfectfoods) |
-| **Purpose**                    | Create an open image dataset for training machine vision algorithms for classifying produce into good, bad, and imperfect categories |
-| **Repository**                 | Harvard Dataverse                                                        |
-| **Principal Investigator**     | Anjali Sharma, LIME Lab Low Profit LLC, Detroit                          |
-| **Dataset Creation Dates**     | Nov, 2023 - ongoing                                                      |
-| **No. of Produce Items**       | 34                                                                       |
-| **No. of Datasets**            | 95                                                                       |
-| **No. of Images**              | 6,000                                                                    |
-| **Total Downloads (Dec. 8, 2024)** | 53,000+                                                                |
-
-
-
 ### What
 We started LIME Lab in Detroit in 2015, with the goal to provide pro-bono technology training to kids in the city of Detroit. In this almost decade of service, we have taught over 1200 girls in-person. Through various events with partners we have also done outreach to over 10,000 kids. Some of the organizations we have partnered with include the Detroit Public Library, The Michigan Science Center, and The Michigan Council of Women In Technology.
 
