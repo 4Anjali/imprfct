@@ -4,16 +4,14 @@ title: About
 permalink: /about/
 ---
 
-### What
-We started LIME Lab in Detroit in 2015, with the goal to provide pro-bono technology training to kids in the city of Detroit. In this almost decade of service, we have taught over 1200 girls in-person. Through various events with partners we have also done outreach to over 10,000 kids. Some of the organizations we have partnered with include the Detroit Public Library, The Michigan Science Center, and The Michigan Council of Women In Technology.
-
-
 ### Why
-Prior to 2020, a substantial number of Detroit Public Schools Community District (DPSCD) students lacked access to personal computing devices and reliable internet at home. In response, the Connected Futures initiative provided over 44,000 students with wireless tablets and internet access to bridge this gap. 
+In the face of the impending challenge of feeding a growing global population, one-third of all food produced ends up as waste. A notable contributor to this problem is the wastage of a third of perfectly edible and nutritious fresh produce because they need to meet the high cosmetic standards expected by consumers. Eliminating this wastage of imperfect produce is, therefore, a crucial and sustainable means to increase the food supply for a growing global population. 
 
-Inspite of such initiatives, in the 2023-24 school year, only 15.9% of students in grades 3-8 achieved proficiency in English Language Arts, and 11.0% in Math. (Source: NATIONAL CENTER FOR EDUCATION STATISTICS). Over the past five years, the percentage of high school students considered college-ready has decreased from 40% to 36%. 
 
-These statistics highlight the critical need for enhanced technology literacy programs and resources to support Detroit's students in being ready for careers in technology and STEM.
+### What
+This can be achieved through automated sorting of good, bad and imperfect produce using automation, robotics and machine vision. A prerequisite for such automated sorting is fast and accurate machine vision algorithms for successful differentiation between good, bad and imperfect produce. Training such algorithms requires large image datasets. While much work has gone into collecting images of good and bad produce, to the best of our knowledge, no such dataset exists for imperfect produce items. 
+
+In this project I attempt to fill this gap by developing the first publicly available dataset of good, bad and imperfect produce items. The dataset has been made publicly available on the Harvard Dataverse for use in training machine vision algorithms for sorting good, bad and imperfect produce. It is my hope that this open dataset will contribute to improving research and practice for sorting and saving imperfect produce in the food supply chain.
 
   
 ### Current Status
