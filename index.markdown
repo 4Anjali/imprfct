@@ -4,6 +4,24 @@ title: Status
 permalink: /
 ---
 
+
+# Dataset Details for Imperfect Foods Dataverse
+
+| **Dataset Name**               | Imperfect Foods Dataverse                                                |
+|--------------------------------|---------------------------------------------------------------------------|
+| **What**                       | Images of good, bad, and imperfect fruits and vegetables                 |
+| **Where**                      | On The Harvard Dataverse @ [https://dataverse.harvard.edu/dataverse/imperfectfoods](https://dataverse.harvard.edu/dataverse/imperfectfoods) |
+| **Purpose**                    | Create an open image dataset for training machine vision algorithms for classifying produce into good, bad, and imperfect categories |
+| **Repository**                 | Harvard Dataverse                                                        |
+| **Principal Investigator**     | Anjali Sharma, LIME Lab Low Profit LLC, Detroit                          |
+| **Dataset Creation Dates**     | Nov, 2023 - ongoing                                                      |
+| **No. of Produce Items**       | 34                                                                       |
+| **No. of Datasets**            | 95                                                                       |
+| **No. of Images**              | 6,000                                                                    |
+| **Total Downloads (Dec. 8, 2024)** | 53,000+                                                                |
+
+
+
 ### Completed:
 - Taught over 1,000 students in person over the past appx. 10 years.
 - Outreach through various events to over 10,000 students.
